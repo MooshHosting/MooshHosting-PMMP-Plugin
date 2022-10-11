@@ -1,0 +1,7 @@
+name: MooshHosting
+main: MooshHosting\Main
+load: STARTUP
+version: 1.0.0
+api: [4.0.0, 5.0.0]
+author: MooshHosting
+description: A simple advertising plugin for BASIC PocketMine Plans.
